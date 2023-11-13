@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<export_parameters ouput_path_type="1" version="2016.2">
+    <source_file name="6EX340EF_fullTC_case7-11.gdx"/>
+    <target_file is_open_when_complete="yes" name="Plot.txt"/>
+    <export_info angle_output_wrapped="yes" data_type="0" decimal_separator_id="1" is_export_to_gdx="no" is_split_output_by_source_file="no" wrap_range_max="720.0" wrap_range_min="0.0">
+        <case_info case_count="0" is_all_cases="yes" is_group_data_by_case="no" is_split_output_by_case="no"/>
+        <grouping_info is_forced_grouping_by_data="no" is_group_common_x="yes" is_split_output_by_group="no"/>
+        <output_info array_format="1" delimiter="&lt;tab&gt;" header_comment_character="#" is_apply_case_number_in_header="yes" is_apply_data_point_count_in_header="yes" is_apply_header_comment_to_blank_line="no" is_apply_header_comment_to_labels="no" is_apply_header_comment_to_units="no" is_include_blank_header_lines="no" is_include_case_label_in_header="no" is_include_labels="yes" is_include_source_file_header="yes" is_include_units="yes" is_source_file_header_absolute="no" is_use_sig_fig_filter="no" significant_figures_to_use="9"/>
+        <data_index_list index_count="10" is_all_gdt_data="no" is_all_rlts="no" label_format="2">
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="79" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="79" data_user_unit_z="0" index="MASSFLW:InterCooler-1:050" label="MFR_intake(kg/s)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT01:Thermal_points-1" label="A1(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT02:Thermal_points-1" label="A2(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT03:Thermal_points-1" label="A3(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="79" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="79" data_user_unit_z="0" index="MASSFLW:exhaPlenum_turb02-1:050" label="MFR_exhaust(kg/s)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT04:Thermal_points-1" label="A4(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT05:Thermal_points-1" label="A5(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="0" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="0" data_user_unit_z="0" index="INPT06:Thermal_points-1" label="A6(J/kg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="104" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="104" data_user_unit_z="0" index="HTTR:cyl-1" label="HTRate:cyl-1(kW)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="32" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="32" data_user_unit_z="0" index="TEMP:cyl-1" label="Temp:cyl-1(K)"/>
+        </data_index_list>
+    </export_info>
+    <interpolation_options interpolation_enabled="yes" interpolation_policy="3" use_first_x_axis_for_interpolation="no">
+        <interpolation_parameter end_value="360.0" increment_value="0.5" interpolation_param_type="1" interpolation_parameter_enabled="yes" start_value="0.0"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="2" interpolation_parameter_enabled="no" start_value="0.0"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="3" interpolation_parameter_enabled="no" start_value="0.0"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="4" interpolation_parameter_enabled="no" start_value="0.0"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="5" interpolation_parameter_enabled="no" start_value="0.0"/>
+    </interpolation_options>
+</export_parameters>

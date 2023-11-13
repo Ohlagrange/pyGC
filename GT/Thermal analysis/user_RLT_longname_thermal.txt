@@ -1,0 +1,28 @@
+Case
+Injected Mass per Cycle; Part inject
+Lower Heating Value of Injected Fuel; Part inject
+IMEP360 - Gross Indicated Mean Effective Pressure; Part cyl-1
+FMEP - Friction Mean Effective Pressure; Part engine-1
+Displacement; Part cyl-1
+Average Heat Transfer; Part cyl-1
+Engine Speed (end of cycle); Part engine-1
+Burned Fuel Fraction; Part cyl-1
+Average Convective Heat Transfer Rate to Walls; Part inlet_comp_port-1
+Average Convective Heat Transfer Rate to Walls; Part CompAirLoss-1
+Average Convective Heat Transfer Rate to Walls; Part comp_cooler-2-1
+Average Convective Heat Transfer Rate to Walls; Part bef_cooler-1
+Average Convective Heat Transfer Rate to Walls; Part InterCooler-1
+Average Convective Heat Transfer Rate to Walls; Part after_cooler-1
+Average Convective Heat Transfer Rate to Walls; Part WMC
+Average Convective Heat Transfer Rate to Walls; Part cooler_scan-1
+Average Convective Heat Transfer Rate to Walls; Part plenum_scan-1
+Average Convective Heat Transfer Rate to Walls; Part to_scan-1
+Average Convective Heat Transfer Rate to Walls; Part scan_box-1
+Average Convective Heat Transfer Rate to Walls; Part turb_outlet_port-1
+Average Convective Heat Transfer Rate to Walls; Part exhaPlenum_turb02-1
+Average Convective Heat Transfer Rate to Walls; Part exhaPlenum_turb01-1
+Average Convective Heat Transfer Rate to Walls; Part plenum_exh-1
+Average Convective Heat Transfer Rate to Walls; Part exhuastpipe04-1
+Average Convective Heat Transfer Rate to Walls; Part exhaustpipe03-1
+Average Convective Heat Transfer Rate to Walls; Part exhaustpipe02-1
+Average Convective Heat Transfer Rate to Walls; Part exhaustpipe01-1

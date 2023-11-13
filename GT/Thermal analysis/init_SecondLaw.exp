@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<export_parameters ouput_path_type="1" version="2016.2">
+    <source_file name="6EX340EF_fullTC_case7-11.gdx"/>
+    <target_file is_open_when_complete="yes" name="second_law.txt"/>
+    <export_info angle_output_wrapped="no" data_type="0" decimal_separator_id="1" is_export_to_gdx="no" is_split_output_by_source_file="no">
+        <case_info case_count="1" is_all_cases="no" is_group_data_by_case="no" is_split_output_by_case="no">
+            <export_case_number case_number="1"/>
+        </case_info>
+        <grouping_info is_forced_grouping_by_data="no" is_group_common_x="no" is_split_output_by_group="no"/>
+        <output_info array_format="1" delimiter="&lt;tab&gt;" header_comment_character="#" is_apply_case_number_in_header="yes" is_apply_data_point_count_in_header="yes" is_apply_header_comment_to_blank_line="no" is_apply_header_comment_to_labels="no" is_apply_header_comment_to_units="no" is_include_blank_header_lines="no" is_include_case_label_in_header="no" is_include_labels="yes" is_include_source_file_header="yes" is_include_units="yes" is_source_file_header_absolute="no" is_use_sig_fig_filter="no" significant_figures_to_use="9"/>
+        <data_index_list index_count="10" is_all_gdt_data="no" is_all_rlts="no" label_format="2">
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="36" data_unit_y="0" data_unit_z="0" data_user_unit_x="36" data_user_unit_y="0" data_user_unit_z="0" index="CV_Avail:cyl-1" label="CV_Avail:cyl-1(J)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="431" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="431" data_user_unit_z="0" index="BRNRATMASS:cyl-1" label="Burn Rate:cyl-1(mg/deg)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="25" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="25" data_user_unit_z="0" index="PRES:cyl-1" label="Pressure:cyl-1(bar)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="17" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="17" data_user_unit_z="0" index="VOL:cyl-1" label="Volume:cyl-1(L)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="104" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="104" data_user_unit_z="0" index="HTTR:cyl-1" label="HTRate:cyl-1(kW)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="61" data_unit_y="32" data_unit_z="0" data_user_unit_x="61" data_user_unit_y="32" data_user_unit_z="0" index="TEMP:cyl-1" label="Temperature:cyl-1(K)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="36" data_unit_y="0" data_unit_z="0" data_user_unit_x="36" data_user_unit_y="0" data_user_unit_z="0" index="AvailFlux:EV-1" label="AvailFlux:exhaust-1(J/s)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="36" data_unit_y="0" data_unit_z="0" data_user_unit_x="36" data_user_unit_y="0" data_user_unit_z="0" index="ChmAvailFlux:EV-1" label="ChmAvailFlux:exhaust-1(J/s)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="36" data_unit_y="0" data_unit_z="0" data_user_unit_x="36" data_user_unit_y="0" data_user_unit_z="0" index="AvailFlux:intake-1" label="AvailFlux:intake-1(J/s)"/>
+            <data_index data_datatype="1" data_silentexport="no" data_unit_x="36" data_unit_y="0" data_unit_z="0" data_user_unit_x="36" data_user_unit_y="0" data_user_unit_z="0" index="ChmAvailFlux:intake-1" label="ChmAvailFlux:intake-1(J/s)"/>
+        </data_index_list>
+    </export_info>
+    <interpolation_options interpolation_enabled="yes" interpolation_policy="3" use_first_x_axis_for_interpolation="no">
+        <interpolation_parameter end_value="260.0" increment_value="0.5" interpolation_param_type="1" interpolation_parameter_enabled="yes" start_value="-100.0"/>
+        <interpolation_parameter end_value="8.8359" increment_value="5.8438E-4" interpolation_param_type="2" interpolation_parameter_enabled="yes" start_value="8.41515"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="3" interpolation_parameter_enabled="no" start_value="0.0"/>
+        <interpolation_parameter end_value="0.0" increment_value="1.0" interpolation_param_type="4" interpolation_parameter_enabled="no" start_value="0.0"/>
+        <interpolation_parameter end_value="8.835905" increment_value="1.0" interpolation_param_type="5" interpolation_parameter_enabled="no" start_value="8.415193"/>
+    </interpolation_options>
+</export_parameters>
