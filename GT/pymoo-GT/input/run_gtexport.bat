@@ -1,0 +1,1 @@
+"C:\GTI\bin\GTexport.bat" RLT.exp
